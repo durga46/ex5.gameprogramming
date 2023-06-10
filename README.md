@@ -7,7 +7,7 @@ To create ammo to increase the bullet count and increase the bullet spawn count.
 ## ALGORITHM:
 ### For Adding Bullet Count:
 #### STEP 1: Create a HUD Blueprint:
-    In the Content Browser, right-click in the desired folder.
+    . In the Content Browser, right-click in the desired folder.
 
     Select Create Basic Asset > Blueprint Class.
 
